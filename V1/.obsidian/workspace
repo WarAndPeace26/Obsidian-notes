@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "adb8153171356607",
+    "type": "split",
+    "children": [
+      {
+        "id": "32496bcac5bc6f02",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fe07226838e3e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a0c39ce81561d62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00658edbd3e6da9a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "69d8eb3ab556741a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "72b5743a5134a3f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "100c2bb550891b19",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42deea282a7a104",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43e10a0fd7340884",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6c9f032bfc4f492d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "32496bcac5bc6f02",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
