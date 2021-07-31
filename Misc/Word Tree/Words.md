@@ -1,0 +1,4 @@
+%% - metadata
+tags: #central%%
+
+[[Schwerpunkt]]

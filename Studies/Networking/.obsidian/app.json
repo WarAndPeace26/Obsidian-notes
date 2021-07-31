@@ -1,0 +1,10 @@
+{
+  "trashOption": "local",
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "Classful",
+    "connectionless",
+    "datagram",
+    "Datagrams"
+  ]
+}

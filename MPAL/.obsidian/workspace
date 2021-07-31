@@ -1,32 +1,29 @@
 {
   "main": {
-    "id": "18c3e97341ad9195",
+    "id": "6a72cb58742b1435",
     "type": "split",
     "children": [
       {
-        "id": "5db94e01b29ef8c9",
+        "id": "9cb21568e510ea11",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Habit 1 Be Proactive/Principals of Personal Vision.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "838c9698ce79a70e",
+    "id": "1e5f99e56a65a152",
     "type": "split",
     "children": [
       {
-        "id": "c6f3e287da796510",
+        "id": "c67f762be75f9384",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6cd66b803e61d0",
+            "id": "43e693f30b5c76c2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +31,7 @@
             }
           },
           {
-            "id": "1cdeee4948a50307",
+            "id": "5d48a92a22965415",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -55,26 +52,25 @@
     "width": 300
   },
   "right": {
-    "id": "b603afcae5817726",
+    "id": "e979ea9cff7bc454",
     "type": "split",
     "children": [
       {
-        "id": "db5e771a65673c8d",
+        "id": "3fb25debfac5eb4a",
         "type": "tabs",
         "children": [
           {
-            "id": "570c08cb6f6fd5f0",
+            "id": "31835e9c914e37c2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Habit 1 Be Proactive/Principals of Personal Vision.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
@@ -83,15 +79,9 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "5db94e01b29ef8c9",
-  "lastOpenFiles": [
-    "Habit 1 Be Proactive/Principals of Personal Vision.md",
-    "Habit 2 Begin With the End in Mind/Principles of Personal Leadership.md",
-    "Habit 2 Begin With the End in Mind/Untitled.md",
-    "Overview of the 7.md",
-    "Habit 1 Be Proactive/Untitled.md",
-    "Untitled.md"
-  ]
+  "active": "9cb21568e510ea11",
+  "lastOpenFiles": []
 }

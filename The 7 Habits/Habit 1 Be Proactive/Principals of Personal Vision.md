@@ -41,3 +41,15 @@ Grow your circle of influence along with your circle of concern
  > - the **Courage** to change what can and ought to be changed, 
  > - the **Serenity** to accept the things that cannot be changed,
  > - and the **Wisdom** to know the difference"
+
+##### The Have's and the Be's
+When/if I had -> Probably reactive.
+Be -> Proactive.
+Be a better listener. Be a better student. The power *is* in your hands.
+
+##### The Other End of the Stick
+You are not free from the consequences of your mistakes.
+
+##### Making and Keeping Commitments
+1. Make a promise -> *Keep it.*
+2. Set a goal -> *work to achieve it.*

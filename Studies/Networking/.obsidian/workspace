@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "c7a8f46863721d3f",
+        "id": "2903ca874a9388b2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Part 1 Overview/Chapter 1 Intro/Introduction.md",
-            "mode": "source"
+            "file": "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/IP Datagrams.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Part 1 Overview/Chapter 1 Intro/Introduction.md",
+                "file": "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/IP Datagrams.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,13 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c7a8f46863721d3f",
+  "active": "2903ca874a9388b2",
   "lastOpenFiles": [
-    "Part 1 Overview/Chapter 1 Intro/Introduction.md",
-    "Untitled.md",
-    "Part 1 Overview/Introduction.md",
-    "Untitled 1.md",
-    "Part 1 Overview/Untitled.md",
-    "Chapter 1 Intro/Untitled.md"
+    "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/IP Datagrams.md",
+    "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/Chapter 7.md",
+    "DataComm/Part 1 Overview/Chapter 1 Intro/Introduction.md",
+    "DataComm/Part 4 Network Layer/Chapter 19 Logical Addressing/Classful Addressing.md",
+    "DataComm/Part 4 Network Layer/Chapter 19 Logical Addressing/19.1 IPv4 Addressing.md",
+    "DataComm/Part 4 Network Layer/Chapter 19 Logical Addressing/Classless Addressing.md",
+    "Pasted image 20210712140807.png",
+    "Pasted image 20210712135131.png",
+    "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/Untitled.md",
+    "TCPIP/Part 2 Network Layer/Chapter 7 IPv4/7.1 Intro.md"
   ]
 }
