@@ -5,6 +5,7 @@
     "Classful",
     "connectionless",
     "datagram",
-    "Datagrams"
+    "Datagrams",
+    "Unicast"
   ]
 }

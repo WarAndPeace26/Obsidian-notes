@@ -1,9 +1,10 @@
 {
   "spellcheck": true,
-  "foldHeading": true,
+  "foldHeading": false,
   "foldIndent": true,
   "showLineNumber": false,
   "spellcheckDictionary": [
     "Multivariable"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

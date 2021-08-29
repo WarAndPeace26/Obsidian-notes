@@ -13,7 +13,7 @@ The 5 components are:
 2. Sender
 3. Receiver
 4. Transmission Medium
-5. Protocol: The sending and receiving devices have to have a protocol. Other wise they'd be *connected but not communicating* like a French man and a Japanese man.
+5. Protocol: The sending and receiving devices have to have a protocol. Otherwise they'd be *connected but not communicating* like a French man and a Japanese man.
 ***
 #### Data Representation
 - Text
@@ -90,9 +90,9 @@ Third level on the hierarchy
 
 ### 1.4 Protocols and Standards
 #### Protocols
-- Syntax: The arrangement of the bits.
-- Semantics: The interpretation of the combinations/patterns of the bits
-- Timing: When the send and how long to send.
+- *Syntax:* The arrangement of the bits.
+- *Semantics:* The interpretation of the combinations/patterns of the bits
+- *Timing:* When the send and how long to send.
 ***
 #### Standards
 - De Jure: Recognized by Law.

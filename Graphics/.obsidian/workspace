@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "a201b232aff0f8c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cf37c49191a85f8",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "79a037ccf618e2bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10 Ray Tracing/Reflection.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7fdf32d144649761",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "10 Ray Tracing/Stopping Recursion.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "030cdb5143237da3",
+    "type": "split",
+    "children": [
+      {
+        "id": "9495e8e0b7bc820e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3f9ec0c841af2ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1d9def1699581015",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "87a01f1f10ca9fd9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83437b9fbf1de5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e28559f6518031",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "777a0682dd2668f7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6cf37c49191a85f8",
+  "lastOpenFiles": [
+    "10 Ray Tracing/Reflection.md",
+    "10 Ray Tracing/Ray Tracing.md",
+    "Stopping Recursion.md",
+    "10 Ray Tracing/Refraction.md",
+    "10 Ray Tracing/Non-Ideal Reflection-Refraction.md",
+    "Non-Ideal Reflection-Refraction.md",
+    "Non-Ideal Reflection/Refraction.md",
+    "Refraction.md",
+    "10 Ray Tracing/Media materials/Pasted image 20210818223040.png",
+    "Pasted image 20210818223040.png"
+  ]
+}

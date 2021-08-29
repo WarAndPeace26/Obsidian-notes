@@ -4,45 +4,75 @@
     "type": "split",
     "children": [
       {
-        "id": "2db7eb5c5a6ca2c2",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chapter 13.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
         "id": "97e49aebb8d91fd6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organization/Points to a plane.md",
+            "file": "Chapter 13/0 Chapter 13.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "864fb1d13615e7f6",
+        "id": "1c500b19064ab328",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organization/A Limit That Does Not Exist.md",
+            "file": "Chapter 13/13.2 Limits and Continuity.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "6787bdb4cbc0b761",
+        "id": "a2aef813e459540b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Organization/Limit verficiation of a function of Multiple Variables.md",
+            "file": "Chapter 13/Continuity.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0830e7d85fe28b35",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "6d80e3e5d27f12ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 13/Limits of a Multi-variable Function.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e62d8f304e6aa968",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 13/Points to a plane.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "038744dd027b9909",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 13/13.1 Intro.md",
             "mode": "preview"
           }
         }
@@ -85,7 +115,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 187
+    "width": 187,
+    "collapsed": true
   },
   "right": {
     "id": "c3d6909bf84bcc95",
@@ -101,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 13.md",
+                "file": "Chapter 13/Continuity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2db7eb5c5a6ca2c2",
+  "active": "a2aef813e459540b",
   "lastOpenFiles": [
-    "Chapter 13.md",
-    "Organization/Points to a plane.md",
-    "Organization/Finding the limit of a function of Multiple Variables.md",
-    "Organization/Cobb Douglas Production Function.md",
-    "Organization/A Limit That Does Not Exist.md",
-    "Organization/Limit verficiation of a function of Multiple Variables.md",
-    "Cobb Douglas Production Function.md",
-    "A Limit That Does Not Exist.md",
-    "Finding the limit of a function of Multiple Variables.md",
-    "Limit verficiation of a function of Multiple Variables.md"
+    "Chapter 13/Continuity.md",
+    "Continuity.md",
+    "Chapter 13/13.2 Limits and Continuity.md",
+    "Limits of a Multi-variable Function.md",
+    "Chapter 13/13.1 Intro.md",
+    "Chapter 13/0 Chapter 13.md",
+    "Chapter 13/Points to a plane.md",
+    "13.2 Limits and Continuity.md",
+    "13.1 Intro.md",
+    "Chapter 13.md"
   ]
 }

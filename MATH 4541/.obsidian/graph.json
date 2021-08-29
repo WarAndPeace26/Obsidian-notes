@@ -6,17 +6,25 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "Subsections",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 1,
-  "repelStrength": 13.8461538461538,
-  "linkStrength": 0,
-  "linkDistance": 50,
-  "scale": 2.755675960631092,
-  "close": false
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.23589743589744,
+  "lineSizeMultiplier": 2.90598290598291,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 30,
+  "scale": 0.3628873693012167,
+  "close": true
 }

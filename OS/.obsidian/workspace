@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "6df725557892fc41",
+    "type": "split",
+    "children": [
+      {
+        "id": "28660b6c38e940ee",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/0 Chap 6 CPU Scheduling.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ca59ec9f1f5cd72a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/Scheduling Algorithms.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "6430d4ffa1af171e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/Multi-Level Feedback Queue.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "0a63932c0ee9b5a6",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "9525be2b817b28fd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/CPU-IO Burst Cycle.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1b9d9ea0adb98a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9287d78056dcb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10818dc75c296a78",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c2afc1558f7ab1dd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "743d6542e0effa4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "596d6011963271e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "347815bfe0b39ba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a63932c0ee9b5a6",
+  "lastOpenFiles": [
+    "Chapter 6/0 Chap 6 CPU Scheduling.md",
+    "Multi-Level Feedback Queue.md",
+    "Scheduling Algorithms.md",
+    "Chapter 6/CPU-IO Burst Cycle.md",
+    "Multi-level Queue Scheduling.md",
+    "First-Come, First-Served.md",
+    "Chapter 6/The Criteria to Judge Scheduling Algorithms On.md",
+    "Response Time.md",
+    "Waiting Time.md",
+    "Turnaround Time.md"
+  ]
+}
