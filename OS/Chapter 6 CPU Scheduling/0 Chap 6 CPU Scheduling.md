@@ -1,3 +1,4 @@
+%% tags: #chapters %%
 # CPU Scheduling
 ***
 Said to be the **basis** of [[Multi-programmed]] operating systems. Basically *switches* the CPU between processes to make the computer more productive.

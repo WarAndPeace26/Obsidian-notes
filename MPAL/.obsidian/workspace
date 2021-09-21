@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ab4ee8fc9e2939",
+        "id": "c9dfc5acba3ca196",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Preparing for the lab finals/Even or odd.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Preparing for the lab finals/Even or odd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -83,13 +83,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "a2ab4ee8fc9e2939",
+  "active": "c9dfc5acba3ca196",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Class notes/Drawing 2021-08-06 01.17.09.excalidraw.md",
-    "Untitled 1.md",
-    "Class notes/First Class.md"
+    "Preparing for the lab finals/Even or odd.md",
+    "Preparing for the lab finals/Sorting 10 integers.md",
+    "Preparing for the lab finals/Backbone.md",
+    "Preparing for the lab finals/Strings.md",
+    "Preparing for the lab finals/New Line and Spaces.md",
+    "Even or odd.md",
+    "Sorting 10 integers.md",
+    "Strings.md",
+    "New Line and Spaces.md",
+    "Preparing for the lab finals/Untitled.md"
   ]
 }

@@ -1,6 +1,12 @@
 {
   "spellcheck": true,
   "spellcheckDictionary": [
-    "Hypokhondria"
-  ]
+    "Hypokhondria",
+    "Nemophilist",
+    "coppice",
+    "coppiced",
+    "judgement"
+  ],
+  "fileSortOrder": "alphabetical",
+  "alwaysUpdateLinks": true
 }

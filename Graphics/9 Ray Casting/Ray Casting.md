@@ -1,3 +1,4 @@
+%%tags: #chapters%%
 # Ray Casting
 ***
 ## Concept 1 Rendering:

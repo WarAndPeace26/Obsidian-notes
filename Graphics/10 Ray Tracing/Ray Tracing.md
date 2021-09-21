@@ -1,3 +1,4 @@
+%%tags: #chapters %%
 # Ray Tracing
 ***
 In Ray Tracing, as discussed before, we go a few steps further than [[Ray Casting]]. In this case, we're concerned about the secondary rays (AKA Shadow rays) too.

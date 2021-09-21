@@ -4,33 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "65d50350e28dfc29",
+        "id": "ed9f764282ab1870",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Word Tree/Words.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
       {
-        "id": "cae1db1df69c01f8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Hamza/Sick AF burns.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "030888e5a98e18d3",
+        "id": "cc279e5cfcfe3c1a",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
+        }
+      },
+      {
+        "id": "ddb6b39f1748701c",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Tracking/Tracking me.md"
+          }
         }
       }
     ],
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hamza/Sick AF burns.md",
+                "file": "Tracking/Tracking me.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,17 +112,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cae1db1df69c01f8",
+  "active": "ddb6b39f1748701c",
   "lastOpenFiles": [
-    "Hamza/Sick AF burns.md",
-    "Hamza/Puns.md",
-    "Hamza/Untitled.md",
-    "Repugnant.md",
+    "Tracking/Tracking me.md",
     "Word Tree/Words.md",
-    "Preposterous.md",
-    "Off Kilter.md",
-    "Discern.md",
-    "Credence.md",
-    "Word Tree/Words/Contempt.md"
+    "Word Tree/Branch Words/Spry.md",
+    "Pasted image 20210918093432.png",
+    "Resplendent.md",
+    "Word Tree/Branch Words/Inured.md",
+    "Word Tree/Branch Words/Paroxysm.md",
+    "Word Tree/Branch Words/Meandering.md",
+    "Word Tree/Branch Words/Genteel.md",
+    "Paroxysm.md"
   ]
 }

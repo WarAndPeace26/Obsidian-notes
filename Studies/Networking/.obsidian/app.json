@@ -6,6 +6,9 @@
     "connectionless",
     "datagram",
     "Datagrams",
-    "Unicast"
+    "Unicast",
+    "Demultiplex",
+    "demultiplexing",
+    "decapsulates"
   ]
 }

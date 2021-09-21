@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "28660b6c38e940ee",
+        "id": "088fd0a44bcbf3ad",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -15,44 +15,66 @@
         }
       },
       {
-        "id": "ca59ec9f1f5cd72a",
+        "id": "b33e7a37e744bd40",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 6 CPU Scheduling/Scheduling Algorithms.md",
+            "file": "Chapter 6 CPU Scheduling/Content/Scheduling Algorithms.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "6430d4ffa1af171e",
+        "id": "b3860f6b1b4d6e76",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Chapter 6 CPU Scheduling/Multi-Level Feedback Queue.md",
+            "file": "Chapter 6 CPU Scheduling/Content/Multi-Level Feedback Queue.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "0a63932c0ee9b5a6",
+        "id": "2ca6fdd500aa94c7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/Content/Multi-level Queue Scheduling.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "c74d9d8b9fbfd650",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/Content/First-Come, First-Served.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "1d39b8e8b056289f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Chapter 6 CPU Scheduling/Content/The Criteria to Judge Scheduling Algorithms On.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4bfc8d078b0169b5",
         "type": "leaf",
         "state": {
           "type": "graph",
           "state": {}
-        }
-      },
-      {
-        "id": "9525be2b817b28fd",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Chapter 6 CPU Scheduling/CPU-IO Burst Cycle.md",
-            "mode": "preview"
-          }
         }
       }
     ],
@@ -109,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 6 CPU Scheduling/0 Chap 6 CPU Scheduling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0a63932c0ee9b5a6",
+  "active": "088fd0a44bcbf3ad",
   "lastOpenFiles": [
-    "Chapter 6/0 Chap 6 CPU Scheduling.md",
-    "Multi-Level Feedback Queue.md",
-    "Scheduling Algorithms.md",
-    "Chapter 6/CPU-IO Burst Cycle.md",
-    "Multi-level Queue Scheduling.md",
-    "First-Come, First-Served.md",
-    "Chapter 6/The Criteria to Judge Scheduling Algorithms On.md",
-    "Response Time.md",
-    "Waiting Time.md",
-    "Turnaround Time.md"
+    "Chapter 6 CPU Scheduling/0 Chap 6 CPU Scheduling.md",
+    "Chapter 6 CPU Scheduling/Content/Scheduling Algorithms.md",
+    "Chapter 6 CPU Scheduling/Content/Multi-Level Feedback Queue.md",
+    "Chapter 6 CPU Scheduling/Content/Multi-level Queue Scheduling.md",
+    "Chapter 6 CPU Scheduling/Content/First-Come, First-Served.md",
+    "Chapter 6 CPU Scheduling/Content/The Criteria to Judge Scheduling Algorithms On.md",
+    "Chapter 5 Process Synchronization/Content/Critical Section.md",
+    "Chapter 5 Process Synchronization/Content/Critical Section Problem.md",
+    "Chapter 5 Process Synchronization/Content/Peterson's Solution.md",
+    "Chapter 5 Process Synchronization/0 Chap 05.md"
   ]
 }
