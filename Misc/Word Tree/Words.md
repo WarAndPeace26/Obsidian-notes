@@ -32,16 +32,17 @@ tags: #central%%
 - [[Exalted]]
 - [[Exasperation]]
 - [[Exoneration]]
-- [[Exultant]]
 - [[Exuberant]]
 ## F
 - [[Fatuous]]
+- [[Fervently]]
 - [[Flit]]
 ## G
 - [[Genteel]]
 ## H
 - [[Hypochondria]]
 ## I
+- [[Incessantly]]
 - [[Inconspicuous]]
 - [[Indignantly]]
 - [[Inured]]
@@ -90,6 +91,8 @@ tags: #central%%
 - [[Rivulet]]
 ## S
 - [[Schwerpunkt]]
+- [[Servility]]
+- [[Skulk]]
 - [[Slovenly]]
 - [[Sordid]]
 - [[Spry]]

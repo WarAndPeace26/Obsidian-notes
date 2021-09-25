@@ -3,7 +3,9 @@
   "spellcheck": true,
   "spellcheckDictionary": [
     "Orthobasis",
-    "Ro"
+    "Ro",
+    "Irradiance",
+    "Reflectance"
   ],
   "promptDelete": false,
   "tabSize": 4

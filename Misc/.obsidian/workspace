@@ -10,7 +10,18 @@
           "type": "markdown",
           "state": {
             "file": "Word Tree/Words.md",
-            "mode": "source"
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "c72b211c42b4d624",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Servility.md",
+            "mode": "preview"
           }
         }
       },
@@ -18,12 +29,15 @@
         "id": "cc279e5cfcfe3c1a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Tracking/Not Always So/1 Shikantaza, Live fully each moment/Calmness of Mind.md",
+            "mode": "source"
+          }
         }
       },
       {
-        "id": "ddb6b39f1748701c",
+        "id": "7c6de3bad5ffba7f",
         "type": "leaf",
         "state": {
           "type": "kanban",
@@ -86,13 +100,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking/Tracking me.md",
+                "file": "Tracking/Not Always So/1 Shikantaza, Live fully each moment/Calmness of Mind.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -112,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddb6b39f1748701c",
+  "active": "cc279e5cfcfe3c1a",
   "lastOpenFiles": [
+    "Tracking/Not Always So/1 Shikantaza, Live fully each moment/Calmness of Mind.md",
+    "Tracking/Not Always So/1 Shikantaza, Live fully each moment/Untitled.md",
     "Tracking/Tracking me.md",
     "Word Tree/Words.md",
+    "Servility.md",
+    "Skulk.md",
+    "Incessantly.md",
+    "Fervently.md",
     "Word Tree/Branch Words/Spry.md",
-    "Pasted image 20210918093432.png",
-    "Resplendent.md",
-    "Word Tree/Branch Words/Inured.md",
-    "Word Tree/Branch Words/Paroxysm.md",
-    "Word Tree/Branch Words/Meandering.md",
-    "Word Tree/Branch Words/Genteel.md",
-    "Paroxysm.md"
+    "Confirm.md"
   ]
 }

@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "c80b73f276f710a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b5a33e14bda62a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Start/File manipulation.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "40088016d1ed4195",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "d2ead8ce48786b07",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Start/Shortcuts.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0daf66c38fb06c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebc5b21d009fe956",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4e68ca5e61daf10",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4fd31c0f3a1c47cf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "842a377dc898f86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f932018655e83c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e90686c83cfa88ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Start/File manipulation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6b5a33e14bda62a0",
+  "lastOpenFiles": [
+    "Start/File manipulation.md",
+    "Start/Shortcuts.md",
+    "Start/Untitled.md"
+  ]
+}

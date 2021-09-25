@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] 15/09/21 - Page 115
 - [ ] 16/09/21 - Page 122
 - [ ] 17/09/21 - Page 135
+- [ ] 25/09/21 - page 148
 
 
 ## War and Peace
