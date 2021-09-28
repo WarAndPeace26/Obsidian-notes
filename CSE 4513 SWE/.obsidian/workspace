@@ -4,40 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8cf44d0f6d050f3d",
+        "id": "cf60010d09b60680",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Patterns/Design Patterns.md",
-            "mode": "preview"
+            "file": "Lectures/Lecture 2/Content/Lecture 2.md",
+            "mode": "source"
           }
         }
       },
       {
-        "id": "e90074ccbb9f7ad7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design Patterns/Contents/Decorator Pattern.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "c64dc3d3d9d18e53",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Design Patterns/Contents/Observer Pattern.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "34358521b8be1396",
+        "id": "19423b4ce112eaa4",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -45,12 +23,12 @@
         }
       },
       {
-        "id": "c2aa083f5811cc40",
+        "id": "ea25628c4d2410e9",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Design Patterns/Contents/Strategy Pattern.md",
+            "file": "Lectures/Lecture 2/Content/Lecture 2.md",
             "mode": "preview"
           }
         }
@@ -109,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Design Patterns/Contents/Decorator Pattern.md",
+                "file": "Lectures/Lecture 2/Content/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,16 +105,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e90074ccbb9f7ad7",
+  "active": "cf60010d09b60680",
   "lastOpenFiles": [
-    "Design Patterns/Contents/Decorator Pattern.md",
-    "Decorator Pattern.md",
-    "Design Patterns/Design Patterns.md",
+    "Lectures/Lecture 2/Content/Lecture 2.md",
+    "Lectures/Lecture 1/Content/SW Size - Token Point.md",
+    "V-Shaped.md",
+    "WaterFall.md",
+    "Lectures/Lecture 2/Content/Untitled.md",
+    "SDLC.md",
+    "Lecture 1/Content/Lecture 1.md",
     "Design Patterns/Contents/Observer Pattern.md",
-    "Observer Pattern.md",
     "Design Patterns/Contents/Strategy Pattern.md",
-    "Design Patterns/Untitled.md",
-    "Strategy Pattern.md",
-    "Untitled.md"
+    "SW Size - FPA.md"
   ]
 }

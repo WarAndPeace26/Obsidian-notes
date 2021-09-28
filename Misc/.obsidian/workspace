@@ -10,12 +10,12 @@
           "type": "markdown",
           "state": {
             "file": "Word Tree/Words.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       },
       {
-        "id": "cc279e5cfcfe3c1a",
+        "id": "c72b211c42b4d624",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -23,12 +23,24 @@
         }
       },
       {
-        "id": "ddb6b39f1748701c",
+        "id": "cc279e5cfcfe3c1a",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Tracking/Tracking me.md"
+            "file": "Skulk.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c6de3bad5ffba7f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hamza/Puns.md",
+            "mode": "preview"
           }
         }
       }
@@ -86,13 +98,13 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tracking/Tracking me.md",
+                "file": "Hamza/Puns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
               }
             }
@@ -112,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ddb6b39f1748701c",
+  "active": "7c6de3bad5ffba7f",
   "lastOpenFiles": [
-    "Tracking/Tracking me.md",
+    "Hamza/Puns.md",
+    "Skulk.md",
     "Word Tree/Words.md",
+    "Word Tree/Media/Pasted image 20210918093432.png",
+    "Word Tree/Branch Words/Pasted image 20210918093432.png",
     "Word Tree/Branch Words/Spry.md",
-    "Pasted image 20210918093432.png",
-    "Resplendent.md",
-    "Word Tree/Branch Words/Inured.md",
-    "Word Tree/Branch Words/Paroxysm.md",
-    "Word Tree/Branch Words/Meandering.md",
-    "Word Tree/Branch Words/Genteel.md",
-    "Paroxysm.md"
+    "Word Tree/Branch Words/Stifling.md",
+    "Word Tree/Branch Words/Torpor.md",
+    "Word Tree/Branch Words/Morose.md",
+    "Word Tree/Branch Words/Meandering.md"
   ]
 }

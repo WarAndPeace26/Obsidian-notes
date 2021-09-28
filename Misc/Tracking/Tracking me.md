@@ -8,6 +8,7 @@ kanban-plugin: basic
 
 - [ ] 11/09/21 - 104.75 kg; 230 lbs
 - [ ] 21/09/21 - 105.03 kg; 233 lbs ;-;
+- [ ] 25/09/21 - 103.85; 228 lbs ;)
 
 
 ## Crime and Punishment
@@ -17,6 +18,7 @@ kanban-plugin: basic
 - [ ] 15/09/21 - Page 115
 - [ ] 16/09/21 - Page 122
 - [ ] 17/09/21 - Page 135
+- [ ] 25/09/21 - page 148
 
 
 ## War and Peace
@@ -32,5 +34,10 @@ kanban-plugin: basic
 ## The Art of Thinking Clearly
 
 - [ ] 20. Outcome Bias
+
+
+## Word Count
+
+- [ ] 25/09/21 - 1354
 
 

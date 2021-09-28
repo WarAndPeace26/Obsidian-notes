@@ -4,18 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "fb51c5489cdbdd49",
+        "id": "fd0a86dc0e4f413b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 Ray Tracing/Shading-Ray Tracing.md",
+            "file": "Classes/Lectures/Phong Specular Model.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "171f66d1103da790",
+        "id": "3b6df84388b40846",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "9 Ray Casting/Ray Casting.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "4f5751a032ba0eb3",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -23,23 +34,23 @@
         }
       },
       {
-        "id": "2ff8b56581beda5a",
+        "id": "fe8253e98f2d46a2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9 Ray Casting/Pinhole.md",
+            "file": "Classes/Lectures/Phong Specular Model.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "72f205fae0d4ef70",
+        "id": "0d0002f29fddf57c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "9 Ray Casting/Ray Casting.md",
+            "file": "Classes/Lectures/Incoming Irradiance for point Lights.md",
             "mode": "preview"
           }
         }
@@ -98,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classes/Lectures/Phong Specular Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "171f66d1103da790",
+  "active": "fd0a86dc0e4f413b",
   "lastOpenFiles": [
-    "10 Ray Tracing/SS-Problem.excalidraw.md",
-    "10 Ray Tracing/Self-Shadowing problem.md",
-    "10 Ray Tracing/Stopping Recursion.md",
-    "9 Ray Casting/Pinhole.md",
-    "10 Ray Tracing/Ray Tracing.md",
-    "10 Ray Tracing/Shading-Ray Tracing.md",
+    "Classes/Lectures/Phong Specular Model.md",
+    "Classes/Lectures/Lecture 11 Lighting, Shading.md",
     "9 Ray Casting/Ray Casting.md",
-    "9 Ray Casting/Description.md",
-    "9 Ray Casting/CSG.md",
-    "9 Ray Casting/Intersections of Ray and Different Types of Objects.md"
+    "Classes/Lectures/Incoming Irradiance.md",
+    "Classes/Lectures/Ideal Diffuse Reflectance.md",
+    "Phong Specular Model.md",
+    "Ideal Diffuse Reflectance.md",
+    "Classes/Lectures/Untitled.md",
+    "Classes/Lectures/BRDF.md",
+    "BRDF.md"
   ]
 }

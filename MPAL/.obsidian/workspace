@@ -7,11 +7,8 @@
         "id": "c9dfc5acba3ca196",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Preparing for the lab finals/Even or odd.md",
-            "mode": "source"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preparing for the lab finals/Even or odd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +85,9 @@
   "active": "c9dfc5acba3ca196",
   "lastOpenFiles": [
     "Preparing for the lab finals/Even or odd.md",
+    "Preparing for the lab finals/Strings.md",
     "Preparing for the lab finals/Sorting 10 integers.md",
     "Preparing for the lab finals/Backbone.md",
-    "Preparing for the lab finals/Strings.md",
     "Preparing for the lab finals/New Line and Spaces.md",
     "Even or odd.md",
     "Sorting 10 integers.md",

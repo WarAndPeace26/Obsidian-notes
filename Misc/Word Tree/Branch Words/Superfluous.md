@@ -7,4 +7,9 @@
 
 **Origin:**
 > ![[Pasted image 20210916212320.png]]
-> 
+
+
+**ALSO:**
+> 1. [[Excess]]
+2. [[Unneeded]]
+3. [[Reduntant]]
