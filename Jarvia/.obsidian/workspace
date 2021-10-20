@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "2b30fc7091bf3d38",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e5a37e6354490c2",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "User/userInfo.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bfea68984f232986",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7691582ba86cdf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f82cff7a59305be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "81692cf15395a3a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db341c07643653e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f123299e70741137",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db1f3ad2174da34b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "User/userInfo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5e5a37e6354490c2",
+  "lastOpenFiles": [
+    "User/userInfo.md",
+    "User/User.md",
+    "Structure_New.md",
+    "Trivia/Untitled.md",
+    "First class objects.md",
+    "Core.md",
+    "User/Drawing 2021-09-29 18.58.35.excalidraw.md",
+    "Structure_Old 1.md",
+    "Drawing 2021-09-29 17.48.16.excalidraw.md",
+    "Untitled.md"
+  ]
+}
