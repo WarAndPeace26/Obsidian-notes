@@ -6,3 +6,5 @@
 4. If Triple H played football, what would his name be? Dribble H.
 5. Even if it was my own kid, I'd hate it.
 >> **"STOP SUCKING MY WIFE'S TITS!!!!"**
+6. Mt Rushmore ripped off Naruto.
+7. How do japanese people say hello to their dogs? Konnichihuahua

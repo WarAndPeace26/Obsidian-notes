@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ed9f764282ab1870",
+        "id": "c72b211c42b4d624",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Word Tree/Words.md",
+            "file": "Word Tree/Branch Words/Exhilarated.md",
             "mode": "preview"
           }
         }
       },
       {
-        "id": "c72b211c42b4d624",
+        "id": "d0999619b74197b9",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -23,24 +23,34 @@
         }
       },
       {
-        "id": "cc279e5cfcfe3c1a",
+        "id": "2c8901a12d5d5985",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Skulk.md",
+            "file": "Word Tree/Branch Words/Acumen.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "7c6de3bad5ffba7f",
+        "id": "9dc70ca3ec0eb661",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "Tracking/Tracking me.md"
+          }
+        }
+      },
+      {
+        "id": "12e4dc949cfc97c8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Hamza/Puns.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -98,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hamza/Puns.md",
+                "file": "Word Tree/Branch Words/Exhilarated.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,17 +134,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7c6de3bad5ffba7f",
+  "active": "c72b211c42b4d624",
   "lastOpenFiles": [
-    "Hamza/Puns.md",
-    "Skulk.md",
+    "Word Tree/Branch Words/Exhilarated.md",
     "Word Tree/Words.md",
-    "Word Tree/Media/Pasted image 20210918093432.png",
-    "Word Tree/Branch Words/Pasted image 20210918093432.png",
-    "Word Tree/Branch Words/Spry.md",
-    "Word Tree/Branch Words/Stifling.md",
-    "Word Tree/Branch Words/Torpor.md",
-    "Word Tree/Branch Words/Morose.md",
-    "Word Tree/Branch Words/Meandering.md"
+    "Hamza/Puns.md",
+    "Tracking/Tracking me.md",
+    "Word Tree/Branch Words/Abject.md",
+    "Word Tree/Branch Words/Acumen.md",
+    "Misc/Shower Thoughs.md",
+    "Misc/Untitled.md",
+    "Misc/Random.md",
+    "Word Tree/Branch Words/Languid.md"
   ]
 }

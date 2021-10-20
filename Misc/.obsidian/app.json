@@ -9,5 +9,6 @@
     "Shikantaza"
   ],
   "fileSortOrder": "alphabetical",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

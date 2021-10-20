@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "Start/File manipulation.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       },
@@ -18,19 +18,19 @@
         "id": "40088016d1ed4195",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Start/Shortcuts.md",
+            "mode": "source"
+          }
         }
       },
       {
         "id": "d2ead8ce48786b07",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Start/Shortcuts.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start/File manipulation.md",
+                "file": "Start/Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,10 +106,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6b5a33e14bda62a0",
+  "active": "40088016d1ed4195",
   "lastOpenFiles": [
-    "Start/File manipulation.md",
     "Start/Shortcuts.md",
+    "Start/File manipulation.md",
     "Start/Untitled.md"
   ]
 }
