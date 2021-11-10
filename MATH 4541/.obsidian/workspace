@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 13/0 Chapter 13.md",
+                "file": "Chapter 13/Notes/13.4 Differentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,10 +223,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97e49aebb8d91fd6",
+  "active": "22594b2aa26529f7",
   "lastOpenFiles": [
-    "Chapter 13/0 Chapter 13.md",
     "Chapter 13/Notes/13.4 Differentials.md",
+    "Chapter 13/0 Chapter 13.md",
     "Chapter 13/Notes/Differentiability.md",
     "Chapter 13/Notes/Finding the Slopes of a surface.md",
     "Chapter 13/Differentiability.md",

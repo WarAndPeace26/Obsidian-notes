@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "0305ee3421f10e26",
+    "type": "split",
+    "children": [
+      {
+        "id": "b86bc0a63dd953e7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Contents.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9d1bad0655bc1cde",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Contents/Lecture 12 - RVs.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "b32d71fbaf331655",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Contents/Lecture 13 - Uniform, Poisson, H. Geo.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9c0b10d49de13c3c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Contents/Lecture 21 - JPDF, MPDF.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "1a10e5576047b10e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Lectures/Contents/Lecture 19 - Joint Discrete RVs.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "5bfffa5922d82d57",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3ae1e905d31e0bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "75f9aedd5763fc53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ba313f00aecf45e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "502039c5096f4b8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "394809bb89d963fc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b098af1f1bdd4973",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ec0055044eda0e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/Contents/Lecture 13 - Uniform, Poisson, H. Geo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b32d71fbaf331655",
+  "lastOpenFiles": [
+    "Lectures/Contents/Lecture 13 - Uniform, Poisson, H. Geo.md",
+    "Lectures/Contents/Lecture 12 - RVs.md",
+    "Lectures/Contents.md",
+    "Lectures/Contents/Lecture 21 - JPDF, MPDF.md",
+    "Lectures/Contents/Lecture 20.md",
+    "Lectures/Contents/Lecture 19 - Joint Discrete RVs.md",
+    "Lectures/Media/Pasted image 20211108224911.png",
+    "Lectures/Contents/Lecture 18 - Gaussian.md",
+    "Lectures/Contents/Lecture 16.md",
+    "Lectures/Contents/Lecture 17.md"
+  ]
+}

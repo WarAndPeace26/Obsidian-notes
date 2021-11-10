@@ -8,3 +8,4 @@
 >> **"STOP SUCKING MY WIFE'S TITS!!!!"**
 6. Mt Rushmore ripped off Naruto.
 7. How do japanese people say hello to their dogs? Konnichihuahua
+8. Girl, are you asinine? Cus that ass makes you a nine.

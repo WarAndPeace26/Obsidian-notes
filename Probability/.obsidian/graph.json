@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "lectures",
+      "color": {
+        "a": 1,
+        "rgb": 1919668
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.717948717948718,
+  "repelStrength": 4.49438202247191,
+  "linkStrength": 0.264957264957265,
+  "linkDistance": 250,
+  "scale": 1.4019828977761317,
+  "close": true
+}
