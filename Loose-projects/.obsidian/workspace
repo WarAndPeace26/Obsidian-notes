@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "7f183e16a497ea69",
+    "type": "split",
+    "children": [
+      {
+        "id": "041ae3a0e9cb9697",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "42e676ff8685bf3d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Main.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cb21983ef22712ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "880593e304d3adca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5211bfc1888fc519",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a4f1ac84f6b527d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9bfaaf916956125a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c385bc489d25b0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdc960c503e74495",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31507812638b9dbb",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "3754d74d079f1006",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "42e676ff8685bf3d",
+  "lastOpenFiles": [
+    "Main.md"
+  ]
+}

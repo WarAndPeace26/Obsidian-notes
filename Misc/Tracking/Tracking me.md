@@ -23,6 +23,9 @@ kanban-plugin: basic
 - [ ] 25/09/21 - page 148
 - [ ] 04/10/21 - Page 172
 - [ ] 13/10/21 - Page 214
+- [ ] 14/01/22 - Page 288
+- [ ] 19/01/22 - Page 332
+- [ ] 23/01/22 - Page 364**
 
 
 ## War and Peace
@@ -49,3 +52,10 @@ kanban-plugin: basic
 - [ ] 12/10/21 - 584
 
 
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"basic"}
+```
+%%

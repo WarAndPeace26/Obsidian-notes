@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "c14f6954709d235d",
+    "type": "split",
+    "children": [
+      {
+        "id": "eab49975479e1653",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8cd699cf3229d4e5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Lec 1.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "bc51d3d0668c07fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "90f0bc9f909d456e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quiz 2/Quiz 2.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "9bb321fc7968f628",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Lec 2.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "e8351a21d124b75a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7884251cd4cb496f",
+    "type": "split",
+    "children": [
+      {
+        "id": "81a7fc53d6a41b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cc61618083b66a0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bb28989cfe962b4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "bdc5477800aba41b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7cbf0f00b299d70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19dba7695f67ac0c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mid/Content/Lec 1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8cd699cf3229d4e5",
+  "lastOpenFiles": [
+    "Mid/Content/Lec 1.md",
+    "Quiz 2/Quiz 2.md",
+    "Mid/Content/Lec 3.md",
+    "Mid/Content.md",
+    "Mid/Content/Lec 2.md"
+  ]
+}

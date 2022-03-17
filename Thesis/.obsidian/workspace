@@ -1,0 +1,255 @@
+{
+  "main": {
+    "id": "2e297c41f8dda27f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2da01f26c2cfd187",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/Basics/Deep learning for image super-resolution a survey.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "b27d4cdc94d70993",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/Basics.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "ba006a7d04969325",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "148089b076f63a33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/Papers.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "656425a841e5acc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/Subsects/Aerial Animal Detection.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "0ca3680ff34a813b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/IntoSR.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "8ec58eb2d9dbd3b7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/IntoSR.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "de29d9ca4e6321f9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/SRCNN.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "44e94425a11233dd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/Sparse coding.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "78a5a0ecc732784c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/dictionaries.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "39c744a9db2a0111",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/Categories.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "ad5319b482178605",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/prediction models.md",
+            "mode": "source",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "bb1e770726a1b6d5",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Papers/Papers.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      },
+      {
+        "id": "49886cf38912c271",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IntoSR/contents/Basics.md",
+            "mode": "preview",
+            "backlinks": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8770337cccc9d4a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca950246c0adde3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae90d9186492c6cd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ca0379de6f95eaf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f0052d0efe6a7cf3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d5c792fe4771377",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9a250a03725be75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Papers/Basics/Deep learning for image super-resolution a survey.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "2da01f26c2cfd187",
+  "lastOpenFiles": [
+    "Papers/Basics/Deep learning for image super-resolution a survey.md",
+    "IntoSR/contents/Basics.md",
+    "Papers/Aerial Animal Detection/Small or Far Away 2022/Small or Far Away.md",
+    "Papers/Small or Far Away 2022/Small or Far Away.md",
+    "Papers/Subsects/Aerial Animal Detection.md",
+    "Papers/Papers.md",
+    "IntoSR/IntoSR.md",
+    "IntoSR/contents/SRCNN.md",
+    "IntoSR/contents/bicubic interpolation.md",
+    "IntoSR/contents/Sparse coding.md"
+  ]
+}

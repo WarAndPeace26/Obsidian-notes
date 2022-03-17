@@ -9,7 +9,7 @@
         "state": {
           "type": "excalidraw",
           "state": {
-            "file": "User/userInfo.md"
+            "file": "Structure_Old.md"
           }
         }
       }
@@ -67,7 +67,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "User/userInfo.md",
+                "file": "Structure_Old.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,15 +87,15 @@
   },
   "active": "5e5a37e6354490c2",
   "lastOpenFiles": [
+    "Structure_Old.md",
+    "Structure_New.md",
+    "Core.md",
     "User/userInfo.md",
     "User/User.md",
-    "Structure_New.md",
     "Trivia/Untitled.md",
     "First class objects.md",
-    "Core.md",
     "User/Drawing 2021-09-29 18.58.35.excalidraw.md",
     "Structure_Old 1.md",
-    "Drawing 2021-09-29 17.48.16.excalidraw.md",
-    "Untitled.md"
+    "Drawing 2021-09-29 17.48.16.excalidraw.md"
   ]
 }

@@ -6,9 +6,12 @@
     "coppice",
     "coppiced",
     "judgement",
-    "Shikantaza"
+    "Shikantaza",
+    "impetrating",
+    "Impetrate"
   ],
   "fileSortOrder": "alphabetical",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "attachmentFolderPath": "Media"
 }

@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#Center",
+      "color": {
+        "a": 1,
+        "rgb": 16057605
+      }
+    },
+    {
+      "query": "tag:#epi-center",
+      "color": {
+        "a": 1,
+        "rgb": 10573267
+      }
+    },
+    {
+      "query": "tag:#Papers",
+      "color": {
+        "a": 1,
+        "rgb": 12092548
+      }
+    },
+    {
+      "query": "tag:#topics",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.77528371759646,
+  "lineSizeMultiplier": 1.14041095890411,
+  "collapse-forces": true,
+  "centerStrength": 0.397260273972603,
+  "repelStrength": 20,
+  "linkStrength": 0.726027397260274,
+  "linkDistance": 30,
+  "scale": 0.19856261782843612,
+  "close": false
+}

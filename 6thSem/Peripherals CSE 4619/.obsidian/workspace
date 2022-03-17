@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "e8ed9575f2664966",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f3595d7c1564513",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Quiz 2/Quiz 2.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "923f80d5306d9fd2",
+        "type": "leaf",
+        "state": {
+          "type": "excalidraw",
+          "state": {
+            "file": "Mid/Quiz 1/drawings/2.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "12dd0e8303b8eb83",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Quiz 1/Slide 2.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "196901447a20a5ad",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Quiz 1/Data Transfer Techniques.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "75c43470447f9e2a",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2efb9f14d5c45ff2",
+    "type": "split",
+    "children": [
+      {
+        "id": "988a1454004675d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cb97e46b99289f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b1758d20e4ef03b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3703f27d588228a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2eacd23267b358d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd1e9cdc596995b2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Quiz 2/Quiz 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8f3595d7c1564513",
+  "lastOpenFiles": [
+    "Quiz 2/Quiz 2.md",
+    "Mid/Quiz 1/drawings/2.excalidraw.md",
+    "Mid/Quiz 1.md",
+    "Mid/Quiz 1/Slide 4.md",
+    "Mid/Quiz 1/Slide 3.md",
+    "Mid/Quiz 1/Slide 2.md",
+    "Mid/Quiz 1/Data Transfer Techniques.md",
+    "Mid/Quiz 1/Accessing IO Devices.md",
+    "Mid/Quiz 1/drawings/3.excalidraw.md",
+    "Mid/Quiz 1/Slide 1.md"
+  ]
+}

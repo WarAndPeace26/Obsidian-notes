@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "ff70893c912163c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c29a446b2623644d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Andrew Ng/Contents.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "bde9e5f04ec1af4f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid Prep/Contents.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "7fd3670111e0689a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NN for thesis/Contents.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7d10e2d4f9668f00",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "e802b954a41a8c99",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid Prep/Content/Lec 4.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d2c5c882b9b2d22",
+    "type": "split",
+    "children": [
+      {
+        "id": "da25f188a584d88f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91e94747e4ac820b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f55a2017e8f35f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "24b871917a1dff3f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf42cc0b13a01976",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a0145fe304c106",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NN for thesis/Contents.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "237fda578ac1e760",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7fd3670111e0689a",
+  "lastOpenFiles": [
+    "NN for thesis/Contents.md",
+    "Mid Prep/Content/Lec 6.md",
+    "Mid Prep/Contents.md",
+    "Mid Prep/Content/Lec 5.md",
+    "Mid Prep/Content/Lec 4.md",
+    "Mid Prep/Content/Lec 1.md",
+    "Andrew Ng/Contents.md",
+    "Andrew Ng/Neural Network/Neural Network.md",
+    "Andrew Ng/Neural Network/NN -Lec 1.md"
+  ]
+}

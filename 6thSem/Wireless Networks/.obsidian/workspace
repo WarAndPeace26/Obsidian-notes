@@ -1,0 +1,117 @@
+{
+  "main": {
+    "id": "4e08137d3eb6cf78",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad6cf761b3d291b3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "8e5ab4c04a65aaa9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Lec 3.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "aa73cf38750c041d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Lec 1.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c85c065cf0e90b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc22c01050ccc2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e798c65e18a4ad81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9c7749ccb5e615b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bbfd3e314e5b393b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3c0c6ed69671c855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91802cd508acc2ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mid/Content/Lec 3.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8e5ab4c04a65aaa9",
+  "lastOpenFiles": [
+    "Mid/Content/Lec 3.md",
+    "Mid/Content.md",
+    "Mid/Content/Lec 1.md"
+  ]
+}

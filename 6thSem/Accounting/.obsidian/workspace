@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "654381a94dadd0f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "732e857a25b70b24",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Mid.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "9f11835f7109b160",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "cfa484ef7a5f7998",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Lecture 2.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "99bb2eddac712555",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Mid/Content/Accounting.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b62b33e1b280eb3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b12c29b20ff69f1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "421ba1ff14df2687",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1bd0c790afabec7a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e7e1f5f34dda4ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "04cb3414f1c1ea63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50c24abaea542767",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Mid/Content/Mid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "732e857a25b70b24",
+  "lastOpenFiles": [
+    "Mid/Content/Mid.md",
+    "Mid/Content/Lecture 2.md",
+    "Mid/Content/Accounting.md",
+    "Mid/Content/Lecture 1.md",
+    "Mid/Assets.md"
+  ]
+}
